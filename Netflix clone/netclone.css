@@ -1,0 +1,26 @@
+#p{
+    height: 600px;
+    width: auto;
+background: radial-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
+url(../IMAGES/netflixbgimg.jpg);
+}
+h1{
+    padding-top: 50px;
+    color: white;
+    
+}
+h4{
+    color: white;
+}
+.ps{
+    display: flex;
+    
+} 
+.ps img{
+    margin-left: auto;
+    display: flex;
+    position: relative;
+}
+h1 input{
+  width: 70px;  
+}
